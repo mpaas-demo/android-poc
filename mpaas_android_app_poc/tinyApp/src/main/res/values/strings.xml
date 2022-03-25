@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="tinyapp_debug_setting">配置真机调试参数</string>
+    <string name="phone_debug">真机调试</string>
+    <string name="scan_prepare">预览</string>
+    <string name="mpaas_tinyapp">mPaaS小程序</string>
+
+</resources>

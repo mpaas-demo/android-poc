@@ -1,0 +1,8 @@
+<resources>
+    <string name="keyboard_ed_text_1">random numbers</string>
+    <string name="keyboard_ed_text_2">numbers + letters</string>
+    <string name="keyboard_ed_text_3">Number + letter + special symbol</string>
+    <string name="keyboard_ed_text_4">encrypted result</string>
+    <string name="keyboard_ed_show_result">Show results</string>
+    <string name="keyboard_ed_clear_result">clear results</string>
+</resources>

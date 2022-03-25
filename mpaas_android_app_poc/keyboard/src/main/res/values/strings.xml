@@ -1,0 +1,8 @@
+<resources>
+    <string name="keyboard_ed_text_1">随机数字</string>
+    <string name="keyboard_ed_text_2">数字+字母</string>
+    <string name="keyboard_ed_text_3">数字+字母+特殊符号</string>
+    <string name="keyboard_ed_text_4">加密结果</string>
+    <string name="keyboard_ed_show_result">显示结果</string>
+    <string name="keyboard_ed_clear_result">清空结果</string>
+</resources>
